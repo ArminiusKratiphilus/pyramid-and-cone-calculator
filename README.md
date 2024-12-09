@@ -1,5 +1,5 @@
 # PYTHON pyramid-and-cone-calculator
-A simple python calculator for the shape of a pyramid and cone. It is primarily intended for creating paper pyramids and cones and producing the needed geometric values for construction as well as the papercraft stencil shape as an image. English and German version included.
+A simple python calculator for the shape of pyramids and cones. It is primarily intended for creating paper pyramids and cones and producing the needed geometric values for construction as well as the papercraft stencil shape as an image. English and German version included.
 
 **english version**: en-pyramid_calculator.py | **german version**: de-pyramidenrechner.py
 
